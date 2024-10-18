@@ -29,10 +29,8 @@ int main (int argc, char** argv)
      // Ciphertext ct   = "NPNKANVHWKPXORCDDTRJRXSJFLCIUAIIBUNQIUQFTHLOZOIMENDNGPCB";
      // Plugboard  plug = "";
 
-     Ciphertext ct = "YXBMXADQBDBAAYIMKDODAYIXNBDQZFJKOLFVEEQBCLUUXDFVQYGKEYBVRHONJKPJMKUNLYLZUKBKJOA"
-                     "JTWVWMOMDPGVXEPUKXBVSGHROFOSBCNKEHEHAKWKOGWTBZFXSYCGSUUPPIZTRTFVCXZVCXTFLMTPTAQ"
-                     "VMREGWSBFZBM";
-     Plugboard plug = "PO ML IU KJ NH YT";
+     Ciphertext ct = "xdzcp zjjkv xjhav noeql uaatd seu";
+     Plugboard plug = "ab cd ef hg";
 
      Stopwatch sw;
      sw.click();
